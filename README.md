@@ -50,6 +50,6 @@ Make sure you have Python installed on your machine.
 
 ## Contributors
 
-- [Your Name](https://github.com/manas95826)
+- [Manas Chopra](https://github.com/manas95826)
 
 
